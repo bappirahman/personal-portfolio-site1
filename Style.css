@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.firstSection {
+    box-sizing: border-box;
+    background-color: #E4F9F5;
+
+    padding-top: 100px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+#cloudTop {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+#midSky {
+    position: absolute;
+
+}
+
+#myPhoto {
+    margin-top: 100px;
+    border-radius: 50%;
+    height: 200px;
+}
+
+p {
+    width: 400px;
+    margin: auto;
+    line-height: 32px;
+    text-align: justify;
+}
+
+.introSec {
+    margin-bottom: 150px;
+
+}
+
+ul {
+    width: 250px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+footer {
+    height: 150px;
+    background-color: #66BFBF;
+    padding: 70px 20px;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+
+.list {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(245, 130, 130);
+
+
+}
+
+a:hover{
+    color: rgb(179, 113, 241) !important;
+}
+
+a:visited {
+    color: burlywood;
+}
+
+.footerLink {
+    color: #1a9499 !important;
+    margin: 10px;
+}
+
+.footerLink:hover {
+    color: #ffffff !important;
+}
+
+.contactHead {
+    margin: 150px 0px 50px 0px;
+}
+
+#contactbutton {
+    margin-top: 100px ;
+    background-color: #30e3cb;
+    border-radius: 12px;
+    display: inline-block;
+    height: 70px;
+    width: 171px;
+    font-size: x-large;
+    padding: 18px;
+    box-sizing: border-box;
+}
